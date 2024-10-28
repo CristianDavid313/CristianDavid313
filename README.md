@@ -20,10 +20,7 @@
 
 </div>
 
-<div align="center"> 
-  <a href="mailto:cristianvargasavellaneda@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+<div align="center">
   <a href="https://linkedin.com/in/cristian-david-vargas-avellaneda-6a786b232" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
