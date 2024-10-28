@@ -24,9 +24,10 @@
   <a href="https://linkedin.com/in/cristian-david-vargas-avellaneda-6a786b232" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="/Archivos/Cristian-David-Vargas-Avellaneda.pdf" download>
+  <a href="https://github.com/CristianDavid313/CristianDavid313/raw/main/Archivos/Cristian-David-Vargas-Avellaneda.pdf" download>
     <img src="https://img.shields.io/badge/Descargar%20CV-0077B5?style=for-the-badge&logo=google-drive&logoColor=white" alt="Descargar CV" />
   </a>
+
 
 
   <!--<a href="https://salesp07.github.io" target="_blank">
