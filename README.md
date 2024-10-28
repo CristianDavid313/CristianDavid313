@@ -45,4 +45,8 @@
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=CristianDavid313&show_icons=true&theme=radical" alt="streak stats"/>
+  <br>
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianDavid313&layout=compact&theme=radical" alt="streak stats"/>
+  <br>
+  <img width=390 src="https://github-profile-trophy.vercel.app/?username=CristianDavid313&theme=radical" alt="streak stats"/>
 </div>
