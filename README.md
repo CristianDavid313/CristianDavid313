@@ -1,4 +1,4 @@
-<img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCristianDavid313%2FCristianDavid313&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitantes&edge_flat=false" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=CristianDavid313.CristianDavid313" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola+a+todos!+👋;+Me+llamo+Cristian+David!;" />
