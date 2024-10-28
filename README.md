@@ -14,7 +14,7 @@
  
  🌱 Estoy estudiando **JavaScript, React, Patrones de diseño**
 
-💬 Preguntame sobre **HTML, CSS, SASS... o cualquier otro tema [here](https://github.com/CristianDavid313/CristianDavid313/issues)**
+💬 Preguntame sobre **HTML, CSS, SASS... o cualquier otro tema [Aquí](https://github.com/CristianDavid313/CristianDavid313/issues)**
 
 ⚡ Dato curioso **El primer programador del mundo fue una mujer. Se llamaba Ada Lovelace y nació en 1815**
 
