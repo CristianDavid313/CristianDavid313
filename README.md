@@ -43,16 +43,3 @@
     <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,py,mysql" /><br>
     <img src="https://skillicons.dev/icons?i=git,github,linux,redhat,figma,notion,vscode" /><br>
 </div>
-
-<br/>
-<hr/>
-
-<h2 align="center">⚡ Estadísticas ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=CristianDavid313&show_icons=true&theme=radical" alt="streak stats"/>
-  <br><br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=CristianDavid313&theme=radical" alt="streak stats"/>
-  <br><br><br>
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianDavid313&layout=compact&theme=radical" alt="streak stats"/>
-</div>
